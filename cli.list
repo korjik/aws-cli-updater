@@ -1,0 +1,9 @@
+http://awsiammedia.s3.amazonaws.com/public/tools/cli/latest/IAMCli.zip
+http://s3.amazonaws.com/ec2-downloads/ec2-api-tools.zip
+http://s3.amazonaws.com/rds-downloads/RDSCli.zip
+http://s3.amazonaws.com/ec2-downloads/ec2-ami-tools.zip
+http://ec2-downloads.s3.amazonaws.com/CloudWatch-2010-08-01.zip
+http://ec2-downloads.s3.amazonaws.com/ElasticLoadBalancing.zip
+http://ec2-downloads.s3.amazonaws.com/AutoScaling-2011-01-01.zip
+https://s3.amazonaws.com/cloudformation-cli/AWSCloudFormation-cli.zip
+
