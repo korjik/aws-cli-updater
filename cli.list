@@ -6,4 +6,4 @@ http://ec2-downloads.s3.amazonaws.com/CloudWatch-2010-08-01.zip
 http://ec2-downloads.s3.amazonaws.com/ElasticLoadBalancing.zip
 http://ec2-downloads.s3.amazonaws.com/AutoScaling-2011-01-01.zip
 https://s3.amazonaws.com/cloudformation-cli/AWSCloudFormation-cli.zip
-
+https://s3.amazonaws.com/elasticbeanstalk/cli/AWS-ElasticBeanstalk-CLI-2.3.zip
