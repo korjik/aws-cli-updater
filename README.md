@@ -10,6 +10,7 @@ Installs CLI tools for
 - CloudWatch
 - AMI tools
 - Elastic Load Balancer
+- Elastic BeansTalk
 
 Creates directory ~/AWS_CLI_TOOLS and updates env variables by ~/.aws_cli_tools
 
